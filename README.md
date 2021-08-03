@@ -1,1 +1,1 @@
-extractive summarizer
+Extractive summarizer for texts.
