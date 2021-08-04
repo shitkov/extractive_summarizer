@@ -1,5 +1,4 @@
 numpy
 networkx
 nltk
-string
 pymystem3
